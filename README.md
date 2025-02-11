@@ -34,3 +34,13 @@ Client Onboarding
 9. What are the most common complaints from customers about the onboarding experience?
 10. How is customer information collected and stored?
 11. Are there any digital tools being used for client onboarding, or is it a manual process?
+
+12. Follow-up Clarification Questions
+
+Based on the initial responses, additional questions may arise, such as:
+
+1. Are there any legal or compliance requirements that must be met during onboarding?
+2. Have there been any attempts in the past to improve the onboarding process? If so, what worked and what didn’t?
+3. What metrics (if any) are used to determine if an employee or client is successfully onboarded?
+4. How frequently do employees and customers provide feedback on the onboarding process?
+5. Are there any budget or resource constraints that may impact the implementation of new solutions?
