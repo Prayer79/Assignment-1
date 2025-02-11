@@ -13,3 +13,15 @@ Client Onboarding Simplification
 1. Create a structured and easy-to-follow client onboarding process.
 2. Ensure all employees follow the same onboarding steps to maintain consistency.
 3. Design a clear communication flow so that customers know what to expect at each stage.
+
+4. Questions & Intended Knowledge Exposure
+
+To gain a deeper understanding of the challenges faced, I will ask the following questions:
+
+Employee Onboarding
+
+1. What steps are currently involved in onboarding a new employee?
+2. What are the biggest challenges new employees face during the first three months?
+3. Are there any existing training materials or standardized procedures in place?
+4. Who is responsible for training new hires, and how is the training conducted?
+5. What tools or systems are used for employee onboarding (e.g., HR software, checklists, mentorship programs)?
