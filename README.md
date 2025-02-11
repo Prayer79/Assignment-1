@@ -25,3 +25,12 @@ Employee Onboarding
 3. Are there any existing training materials or standardized procedures in place?
 4. Who is responsible for training new hires, and how is the training conducted?
 5. What tools or systems are used for employee onboarding (e.g., HR software, checklists, mentorship programs)?
+
+Client Onboarding
+
+6. Can you describe the current client onboarding process step-by-step?
+7. What specific challenges do employees face when onboarding a new client?
+8. Are there any existing guidelines for handling new clients, or does each employee create their own approach?
+9. What are the most common complaints from customers about the onboarding experience?
+10. How is customer information collected and stored?
+11. Are there any digital tools being used for client onboarding, or is it a manual process?
